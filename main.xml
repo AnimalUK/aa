@@ -1,0 +1,19 @@
+#######################################################################################################################################
+<poster>Link</poster>
+<fanart>https://s8.postimg.org/z0lncy4vp/backdrop.jpg</fanart>
+#######################################################################################################################################
+
+<dir>
+  <name>Movies</name>
+  <link>https://www.dropbox.com/s/s39donqt73airkt/movies.xml?dl=1</link>
+</dir>
+
+<dir>
+  <name>TV</name>
+  <link>https://www.dropbox.com/s/57pnd1m6qqbp3oa/tv.xml?dl=1</link>
+</dir>
+
+<dir>
+  <title>Search</title>
+  <trakt>search</trakt>
+</dir>
