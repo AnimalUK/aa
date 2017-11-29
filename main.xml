@@ -1,0 +1,24 @@
+#######################################################################################################################################
+<poster>Link</poster>
+<fanart>https://s8.postimg.org/z0lncy4vp/backdrop.jpg</fanart>
+#######################################################################################################################################
+
+<dir>
+  <name>Movies</name>
+  <link>https://raw.githubusercontent.com/AnimalUK/aa/master/movies.xml</link>
+</dir>
+
+<dir>
+  <name>TV</name>
+  <link>https://raw.githubusercontent.com/AnimalUK/aa/master/tv.xml</link>
+</dir>
+
+<dir>
+  <name>You Tube</name>
+  <link>https://raw.githubusercontent.com/AnimalUK/aa/master/youtube.xml</link>
+</dir>
+
+<dir>
+  <title>Search</title>
+  <trakt>search</trakt>
+</dir>
